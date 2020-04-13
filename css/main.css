@@ -1,0 +1,33 @@
+/*Fonts
+
+font-family: lato, sans-serif;
+font-weight: 400;
+font-style: italic;
+
+font-family: lato, sans-serif;
+font-weight: 700;
+font-style: italic;
+
+font-family: lato, sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: lato, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+*/
+
+
+
+img{
+    padding: 100px;
+    width: 100%;
+}
+
+
+img.card{
+    width:25%;
+    padding: 0;
+    margin: 40px auto;
+}
